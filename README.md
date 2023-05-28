@@ -1,5 +1,3 @@
-Sure! Here's an example of the content you can include in your README file for a login page created with Node.js, Express, and MySQL:
-
 # Login Page with Node.js, Express, and MySQL
 
 This project demonstrates the implementation of a login page using Node.js, Express, and MySQL. It provides a basic authentication system where users can register, login, and access protected routes.

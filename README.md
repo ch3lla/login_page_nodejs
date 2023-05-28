@@ -69,10 +69,6 @@ Before running the application, make sure you have the following prerequisites i
    - Once logged in, you can access protected routes such as the home page.
    - If you try to access protected routes without logging in, you will be redirected to the login page.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -85,4 +81,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
 - [express-session](https://www.npmjs.com/package/express-session)
 
-Feel free to customize and expand this README file according to your project's specific details and requirements.
+
